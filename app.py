@@ -105,9 +105,7 @@ st.markdown("""
 - Won 2 by delivering innovative, real-world solutions
 """)
 
-# ------------------ FOOTER ------------------ #
-st.markdown("---")
-st.caption("© 2025 Bharath Mande | Built with ❤️ using Streamlit")
+
 
 
 
